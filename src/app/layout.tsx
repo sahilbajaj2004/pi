@@ -22,20 +22,20 @@ export const metadata: Metadata = {
     "Backend",
   ],
   authors: [{ name: "Pi" }],
-  creator: "Pi Dev Community",
+  creator: "Pi Community",
   metadataBase: new URL("https://picommunity.vercel.app/"),
   openGraph: {
-    title: "Pi Developer Community",
+    title: "Pi Community",
     description:
       "Where developers orbit innovation. Explore coding events, community, and resources.",
     url: "https://picommunity.vercel.app/",
-    siteName: "Pi Developer Community",
+    siteName: "Pi Community",
     images: [
       {
         url: "/pi.png", // replace with your actual OG image
         width: 1200,
         height: 630,
-        alt: "Pi Developer Community Banner",
+        alt: "Pi Community Banner",
       },
     ],
     type: "website",
