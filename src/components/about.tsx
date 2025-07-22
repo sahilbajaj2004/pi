@@ -94,6 +94,50 @@ export default function About() {
                                 className="absolute -bottom-1 left-1/4 w-1.5 h-1.5 xs:w-2 xs:h-2 bg-purple-300 rounded-full animate-bounce"
                                 style={{ animationDelay: "1.2s" }}
                             ></div>
+                            <div
+                                className="absolute top-6 right-1/2 w-1.5 h-1.5 xs:w-2 xs:h-2 bg-pink-300 rounded-full animate-bounce"
+                                style={{ animationDelay: "0.5s" }}
+                            ></div>
+                            <div
+                                className="absolute bottom-4 right-6 w-2 h-2 xs:w-2.5 xs:h-2.5 bg-purple-200 rounded-full animate-bounce"
+                                style={{ animationDelay: "1.5s" }}
+                            ></div>
+                            <div
+                                className="absolute top-1/2 left-2 w-1.5 h-1.5 xs:w-2 xs:h-2 bg-pink-200 rounded-full animate-bounce"
+                                style={{ animationDelay: "0.9s" }}
+                            ></div>
+                            <div
+                                className="absolute bottom-2 left-1/2 w-2 h-2 xs:w-2.5 xs:h-2.5 bg-purple-500 rounded-full animate-bounce"
+                                style={{ animationDelay: "1.8s" }}
+                            ></div>
+                            <div
+                                className="absolute top-10 left-10 w-1 h-1 xs:w-1.5 xs:h-1.5 bg-pink-500 rounded-full animate-bounce"
+                                style={{ animationDelay: "0.7s" }}
+                            ></div>
+                            <div
+                                className="absolute bottom-8 right-1/3 w-1 h-1 xs:w-1.5 xs:h-1.5 bg-purple-400 rounded-full animate-bounce"
+                                style={{ animationDelay: "1.1s" }}
+                            ></div>
+                            <div
+                                className="absolute top-2 left-1/3 w-2 h-2 xs:w-2.5 xs:h-2.5 bg-pink-400 rounded-full animate-bounce"
+                                style={{ animationDelay: "0.3s" }}
+                            ></div>
+                            <div
+                                className="absolute bottom-1/4 right-2 w-1.5 h-1.5 xs:w-2 xs:h-2 bg-purple-300 rounded-full animate-bounce"
+                                style={{ animationDelay: "1.6s" }}
+                            ></div>
+                            <div
+                                className="absolute top-1/4 right-8 w-1 h-1 xs:w-1.5 xs:h-1.5 bg-pink-200 rounded-full animate-bounce"
+                                style={{ animationDelay: "0.6s" }}
+                            ></div>
+                            <div
+                                className="absolute bottom-10 left-8 w-2 h-2 xs:w-2.5 xs:h-2.5 bg-purple-200 rounded-full animate-bounce"
+                                style={{ animationDelay: "1.3s" }}
+                            ></div>
+                            <div
+                                className="absolute top-8 right-12 w-1.5 h-1.5 xs:w-2 xs:h-2 bg-pink-300 rounded-full animate-bounce"
+                                style={{ animationDelay: "0.4s" }}
+                            ></div>
                         </div>
                     </div>
                 </div>
