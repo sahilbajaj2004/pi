@@ -23,16 +23,16 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Pi" }],
   creator: "Pi Dev Community",
-  metadataBase: new URL("https://your-domain.com"),
+  metadataBase: new URL("https://picommunity.vercel.app/"),
   openGraph: {
     title: "Pi Developer Community",
     description:
       "Where developers orbit innovation. Explore coding events, community, and resources.",
-    url: "https://your-domain.com",
+    url: "https://picommunity.vercel.app/",
     siteName: "Pi Developer Community",
     images: [
       {
-        url: "/og-cover.png", // replace with your actual OG image
+        url: "/pi.png", // replace with your actual OG image
         width: 1200,
         height: 630,
         alt: "Pi Developer Community Banner",
@@ -45,13 +45,13 @@ export const metadata: Metadata = {
     title: "Pi",
     description:
       "Join the Pi community of developers orbiting innovation and sharing code knowledge.",
-    images: ["/og-cover.png"],
+    images: ["/pi.png"],
     creator: "@yourhandle", // optional
   },
   icons: {
     icon: "/favicon.ico",
     shortcut: "/favicon.ico",
-    apple: "/apple-touch-icon.png",
+    apple: "/favicon.ico",
   },
   themeColor: "#0f0f1b",
 };
