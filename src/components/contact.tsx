@@ -5,7 +5,13 @@ import {
     Mail,
     Send,
 } from "lucide-react";
-import { FaWhatsapp, FaDiscord, FaLinkedin, FaTwitter } from "react-icons/fa";
+import {
+  FaWhatsapp,
+  FaDiscord,
+  FaLinkedin,
+  FaTwitter,
+  FaGithub,
+} from "react-icons/fa";
 
 export default function Contact() {
     const [formData, setFormData] = useState({
@@ -151,6 +157,18 @@ export default function Contact() {
                     className="p-3 bg-gray-900/50 rounded-lg border border-gray-700/50 hover:border-purple-500/50 transition-all duration-300 hover:shadow-[0_0_15px_rgba(168,85,247,0.3)] group focus:outline-none focus:ring-2 focus:ring-purple-500"
                   >
                     <FaTwitter
+                      size={20}
+                      className="text-gray-400 group-hover:text-purple-400 transition-colors"
+                    />
+                  </a>
+                  <a
+                    href="https://github.com/piconnect01"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    aria-label="github"
+                    className="p-3 bg-gray-900/50 rounded-lg border border-gray-700/50 hover:border-purple-500/50 transition-all duration-300 hover:shadow-[0_0_15px_rgba(168,85,247,0.3)] group focus:outline-none focus:ring-2 focus:ring-purple-500"
+                  >
+                    <FaGithub
                       size={20}
                       className="text-gray-400 group-hover:text-purple-400 transition-colors"
                     />
