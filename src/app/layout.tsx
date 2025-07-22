@@ -46,7 +46,7 @@ export const metadata: Metadata = {
     description:
       "Join the Pi community of developers orbiting innovation and sharing code knowledge.",
     images: ["/pi.png"],
-    creator: "@yourhandle", // optional
+    // creator: "@yourhandle",
   },
   icons: {
     icon: "/favicon.ico",

@@ -42,7 +42,7 @@ export default function About() {
                         </div>
 
                         {/* Stats */}
-                        <div className="grid grid-cols-1 xs:grid-cols-3 gap-3 sm:gap-6 pt-4 sm:pt-8">
+                        <div className="grid grid-cols-3 gap-3 sm:gap-6 pt-4 sm:pt-8">
                             {[
                                 { number: "50+", label: "Developers" },
                                 { number: "5+", label: "Events" },
