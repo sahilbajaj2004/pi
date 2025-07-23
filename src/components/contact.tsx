@@ -162,7 +162,7 @@ export default function Contact() {
                     />
                   </a>
                   <a
-                    href="https://github.com/piconnect01"
+                    href="https://www.linkedin.com/in/pi-community-29158b376/"
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="github"
