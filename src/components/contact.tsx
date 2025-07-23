@@ -138,7 +138,7 @@ export default function Contact() {
                     />
                   </a>
                   <a
-                    href="https://www.linkedin.com/company/pi-3-14/"
+                    href="https://www.linkedin.com/in/pi-community-29158b376/"
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="LinkedIn"
